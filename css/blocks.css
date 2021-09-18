@@ -1,0 +1,18 @@
+div{
+  width: 100px;
+  height:100px;
+  position: relative;
+}
+.a{
+  background-color: red;
+  left: 200px;
+}
+.b{
+  background-color: blue;
+  bottom: 100px;
+}
+.c{
+  background-color: yellow;
+  left: 100px;
+  bottom: 200px;
+}

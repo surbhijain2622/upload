@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-color: #E0FFFF;
+}
+div{
+  width: 500px;
+  padding: 10px;
+
+  position: absolute;
+
+
+}
+.hrt{
+  border-color: white;
+}
+.tab{
+  margin-left: auto;
+  margin-right: auto;
+}
+.top{
+  margin-left: 350px;
+
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/997/067/small/happy-valentines-day-greeting-cards-with-paper-hearts-hanging-on-pink-pastel-background-vector.jpg");
+  height: 120px;
+  margin-top: 50px;
+}
+.middle{
+  width: 100px;
+  height: 100px;
+  margin-left: 550px;
+  margin-top: 140px;
+
+}
+.bottom{
+  margin-left: 350px;
+  height: 250px;
+  background-color: white;
+  margin-top: 190px;
+}
